@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> NO ME GUSTA APRENDER JENKINS NO NO NO NO NO</h1>
+   <h1> NOS GUSTA MUCHO JENKINS</h1>
   <h1> REPITO NO ME GUSTA NADA, BUENO UN POQUITO SI, AHORA QUE QUIERE FUNCIONAR</h1>
 
   
